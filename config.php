@@ -1,8 +1,8 @@
 <?php
 /*
  * ContExplore v1.0
- * Build 1
  * Configuration
+ * Build 2
  */
 define('CMS_VERSION', '1.0.0 Alpha 1');
 define('CMS_VERSION_CODE', 100);
